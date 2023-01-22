@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(to bottom, #0066ff 0%, #ccffff 100%);
+}
+
+img
+{
+border-style:solid ;
+border-width: 2px;
+border-color: #335677;
+}
+
+#title
+{
+    font-size: 88px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
